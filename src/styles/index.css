@@ -1,11 +1,26 @@
-/* 
+.navbar {
+    background-color: rgb(116, 110, 110) !important;
+}
 
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
+.navbar-brand {
+    color: white; 
+    padding-left: 30px;
+}
 
-*/
+.nav-link {
+    color: white;
+}
+
+.jumbot {
+width: auto;
+}
+
+.footer {
+    background-color: rgb(37, 34, 34);
+    color: white;
+    padding: 20px;
+    width: 100%;
+    height: 75px;
+    position: fixed;
+    bottom: 0;
+}
